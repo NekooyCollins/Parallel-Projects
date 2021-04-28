@@ -1,0 +1,5 @@
+[
+	["echo", "/bin/cat"],
+	["mopp-2017-t3-mandelbrot-set", "/usr/bin/mandelbrot"],
+	["mopp-2018-t2-levenshtein", "/usr/bin/lev_parallel"]
+]
